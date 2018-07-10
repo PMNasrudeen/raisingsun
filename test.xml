@@ -9,7 +9,7 @@
                         <AdSystem version="1.0">TVF Ad Server NEW</AdSystem>
                         <Impression>
                             <![CDATA[
-                            http://secure-cert.imrworldwide.com/cgi-bin/m?ci=nlsnci535&am=3&at=view&rt=banner&st=image&ca=nlsn13134&cr=crtve&pc=tvfplay_plc0001&ce=tvfplay&c9=devid,XXXX&c13=asid,T79ED40DF-59D5-48BD-9D19-86717E9738C2&uoo=XXXX&r=XXXX
+                            https://myrecipebook-faluda.herokuapp.com/
                             ]]>
                         </Impression>
                         <Creatives>
