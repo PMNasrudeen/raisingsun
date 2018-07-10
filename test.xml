@@ -9,7 +9,7 @@
                         <AdSystem version="1.0">TVF Ad Server NEW</AdSystem>
                         <Impression>
                             <![CDATA[
-                            https://myrecipebook-faluda.herokuapp.com?uid=%%ADVERTISING_IDENTIFIER_PLAIN%%
+                            https://myrecipebook-faluda.herokuapp.com
                             ]]>
                         </Impression>
                         <Creatives>
