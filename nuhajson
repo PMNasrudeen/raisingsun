@@ -1,0 +1,29 @@
+{
+    "resp_code": "200",
+    "status": "success",
+    "episode": {
+        "video_url": "5242056274001",
+        "third_party": 0,
+        "aspect_xl_large_url": "https://tvfdevstatic1-a.akamaihd.net/cpp%2Fs3fs-public%2Ftvf%2Fepisodes%2F853%2Foriginal%2F16_9_with_text%2Fen%2Faspect_xl_large%2F273b5e6fce23624326e1502196efe5aa_hy1.jpg",
+        "description": "In order to make it big we all seek advice from experienced ones. Vipul also takes advice from one of his fellow comedians and starts looking for a manager.",
+        "ad": {
+            "ad_vast_tag": "https://tvfindia.com/integration-server/f7a6b826-6e71-4194-8892-e09c8f52c5f7/acd92efb-fc83-4315-9966-d5862969990a",
+            "ad_unit_id": "acd92efb-fc83-4315-9966-d5862969990a",
+            "ad_campaign_id": "f7a6b826-6e71-4194-8892-e09c8f52c5f7",
+            "ad_viewed_call": "AD_COMPLETE",
+            "ad_type": "tvf"
+        },
+        "pilot": {
+          "pilot_type": "tvf",
+          "pilot_viewed_call": "AD_COMPLETE",
+          "pilot_tag_url": "https://tvfindia.com/api/pilot/529a00ff66a357e785f40c84f722c89b/853",
+          "time_between_units": 2
+        },
+        "id": 853,
+        "account_id": "4512983226001",
+        "privacy_policy": "BCpkADawqM2JBylZwR2pjZjqR9byG7t-ySedmtp2tby9MjgOLwoMpwCx7kNQ8URPEosSe7jXKIPUeYyJawt__Fx7HjODbtIyPU-FMNOo0xb_h1ha_LpVlHnzpRT8a2pfBUpmLcHStA1ZaZcQ",
+        "name": "Humorously Yours S01E01 - ‘M for Manager’",
+        "video_type": "nct",
+        "duration": "1903"
+    }
+}
