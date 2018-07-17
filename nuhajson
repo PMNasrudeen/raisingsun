@@ -1,29 +1,23 @@
 {
-    "episode": {
-        "video_type": "nct",
-        "third_party": 0,
-        "description": "Welcome to the home of the Guptas, in the summer of '98. Meet Harshu, our 12-year old, naughty but nice hero. He has a strict but caring mother, a cool father who is the engine of the family, a nerdy elder brother and an adorable baby sister, the apple of everyone’s eyes. All Harshu wants is all any 12-year-old does, to play and have fun with his best friend Shanky during the summer vacations, but mom has different plans for him.",
-        "account_id": "4512983226001",
-        "name": "TVF Yeh Meri Family | E01 - Pukam Pukai",
-        "duration": "1915",
-        "privacy_policy": "BCpkADawqM2JBylZwR2pjZjqR9byG7t-ySedmtp2tby9MjgOLwoMpwCx7kNQ8URPEosSe7jXKIPUeYyJawt__Fx7HjODbtIyPU-FMNOo0xb_h1ha_LpVlHnzpRT8a2pfBUpmLcHStA1ZaZcQ",
-        "video_url": "5808136813001",
-        "id": 1256,
-        "ad": {
-            "ad_unit_id": "c712f7ae-e2a1-44d5-9896-82bea3d8a9d2",
-            "ad_type": "tvf",
-            "ad_campaign_id": "49a81fcf-bcdd-4992-a9bb-0e6e5cbf1dfd",
-            "ad_vast_tag": "https://tvfindia.com/integration-server/49a81fcf-bcdd-4992-a9bb-0e6e5cbf1dfd/c712f7ae-e2a1-44d5-9896-82bea3d8a9d2",
-            "ad_viewed_call": "AD_COMPLETE"
-        },
-        "pilot": {
-          "pilot_type": "tvf",
-          "pilot_viewed_call": "AD_COMPLETE",
-          "pilot_tag_url": "https://tvfindia.com/api/pilot/4ebd020883285d698c44ec50939c0967/1256",
-          "time_between_units": 2
-        },
-        "aspect_xl_large_url": "https://tvfdevstatic1-a.akamaihd.net/cpp%2Fs3fs-public%2F2018-07%2Faspect_xl_large%2Fymf_episode_1_thumbnail.jpg"
-    },
     "status": "success",
-    "resp_code": "200"
+    "resp_code": "200",
+    "episode": {
+        "third_party": 1,
+        "pilot": {},
+        "aspect_xl_large_url": "https://tvfdevstatic1-a.akamaihd.net/cpp%2Fs3fs-public%2Ftvf%2Fepisodes%2F1078%2Foriginal%2F16_9_with_text%2Fen%2Faspect_xl_large%2F060bc24a16826bb1f7fd11b4e353653a-thumb-truthvdare-v6-jpg.jpg",
+        "video_type": "youtube",
+        "privacy_policy": "",
+        "account_id": "",
+        "name": "Truth or Dare: Husband vs. Wife, feat. Permanent Roommates",
+        "id": 1078,
+        "video_url": "ruHMqQJ6PNE",
+        "duration": "599",
+        "description": "Mikesh decides to surprise Tanya with a special Diwali gift, but the tables turn when they end up playing a game of Truth or Dare!",
+                "pilot": {
+            "time_between_units": 2,
+            "pilot_viewed_call": "AD_COMPLETE",
+            "pilot_tag_url": "https://tvfindia.com/api/pilot/a15413e413f9527cb311e36f27ee5e12/1256",
+            "pilot_type": "tvf"
+        },
+    }
 }
