@@ -3,7 +3,12 @@
     "resp_code": "200",
     "episode": {
         "third_party": 1,
-        "pilot": {},
+        "pilot": {
+                    "time_between_units": 2,
+            "pilot_viewed_call": "AD_COMPLETE",
+            "pilot_tag_url": "https://tvfindia.com/api/pilot/a15413e413f9527cb311e36f27ee5e12/1256",
+            "pilot_type": "tvf"
+        },
         "aspect_xl_large_url": "https://tvfdevstatic1-a.akamaihd.net/cpp%2Fs3fs-public%2Ftvf%2Fepisodes%2F1078%2Foriginal%2F16_9_with_text%2Fen%2Faspect_xl_large%2F060bc24a16826bb1f7fd11b4e353653a-thumb-truthvdare-v6-jpg.jpg",
         "video_type": "youtube",
         "privacy_policy": "",
@@ -12,12 +17,6 @@
         "id": 1078,
         "video_url": "ruHMqQJ6PNE",
         "duration": "599",
-        "description": "Mikesh decides to surprise Tanya with a special Diwali gift, but the tables turn when they end up playing a game of Truth or Dare!",
-                "pilot": {
-            "time_between_units": 2,
-            "pilot_viewed_call": "AD_COMPLETE",
-            "pilot_tag_url": "https://tvfindia.com/api/pilot/a15413e413f9527cb311e36f27ee5e12/1256",
-            "pilot_type": "tvf"
-        },
+        "description": "Mikesh decides to surprise Tanya with a special Diwali gift, but the tables turn when they end up playing a game of Truth or Dare!"
     }
 }
